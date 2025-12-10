@@ -1,17 +1,17 @@
 # MetaFitPro -App Contador de Calorias
 
----
 
-## **1. Identificación del Proyecto**
+
+## 1. Identificación del Proyecto
 **Nombre de la Aplicación:** MetaFitPro  
 **Asignatura:** Desarrollo de Aplicaciones Móviles  
 **Profesor:** M.C. Leonel González Vidales  
 **Periodo:** Agosto - Diciembre 2025  
 **URL del Repositorio:** https://github.com/yakshuri-varona/MetaFitPro
 
----
 
-## **2. Descripción del Proyecto**
+
+## 2. Descripción del Proyecto
 **MetaFitPro** Es una aplicación móvil diseñada para ayudar a los usuarios a conocer la información nutricional de diversos alimentos, frutas, bebidas o golosinas.  
 Su principal funcionalidad consiste en permitir la búsqueda por nombre de alimento y mostrar macronutrientes: proteínas, carbohidratos y grasas.  
  Permite agregar varios alimentos al día y ver cuántas calorías consumes.   
@@ -20,13 +20,13 @@ Su principal funcionalidad consiste en permitir la búsqueda por nombre de alime
 - Diseño moderno, amigable y responsivo con colores cálidos (amarillo) y estilo atractivo.
   
 
-### **Características principales:**
+### Características principales:
 - Búsqueda rápida y precisa de alimentos.  
 - Información nutricional detallada.  
 - Interfaz amigable con navegación intuitiva (Home, Explorar, Search, History y Perfil).  
 - Optimización para dispositivos Android mediante **Expo**.  
 
-### **Funcionalidades Implementadas :*
+### Funcionalidades Implementadas :
 -Se agregaron más alimentos y categorías.
 -Se integraron recetas saludables relacionadas con cada alimento.
 -Se muestra el total de calorías  según la cantidad del alimento o en varias cantidades de alimentos.
