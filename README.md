@@ -169,7 +169,7 @@ Si ocurre un error con package.json, asegúrate de estar en la carpeta raíz del
  -Muestra el Historial.
  -Muestra un mensaje con un consejo del Día
 
-![Captura_Pantalla_P1](MetaFitPro2.0/screenshot/Captura_Pantalla_P1.jpg).
+![Captura_historial](assets/Captura_historial.jpg).
 
  ---
 
@@ -251,4 +251,3 @@ Desarrollado por: Yakshuri Varona
 GitHub: @yakshuri-varona
 Última actualización: 9 de Noviembre 2025
 Versión: 1.1.0
-
