@@ -178,6 +178,10 @@ npx expo start
 
 En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento, bebida o golosina para obtener información nutricional detallada (calorías, proteínas, carbohidratos, grasas, etc.).
 
+### **Perfil:**
+![Captura_perfil](assets/Captura_perfil.jpg).
+
+
 ### **Datos de Ejemplo:**
 - Manzana 🍎
 - Banana 🍌
