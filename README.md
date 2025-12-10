@@ -86,7 +86,7 @@ METAFITPRO/
 ├── README.md             # Este archivo
 └── tsconfig.json         # Configuración de TypeScript
 
----
+´´´´
 
 ### **Arquitectura:**
 La aplicación sigue una arquitectura modular basada en componentes de:
