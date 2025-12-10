@@ -174,7 +174,7 @@ npx expo start
 
 
 ### **Pantalla de búsqueda:**
-![Captura_registro de_comida](assets/Captura_registro de_comida.jpg).
+![Captura_registro_de_comida](assets/Captura_registro_de_comida.jpg).
 
 En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento, bebida o golosina para obtener información nutricional detallada (calorías, proteínas, carbohidratos, grasas, etc.).
 
