@@ -163,6 +163,7 @@ npx expo start
 ## 7. Funcionalidades dentro de la Aplicación
 
 ### Pantalla principal
+![Captura_Pantalla_P1](assets/Captura_Pantalla_P1.jpg)
 
 - Muestra un cuadro con el total de calorías, la meta y los restantes
 - Muestra otro cuadro con los macronutrientes, el cual contiene (Proteínas, Carbohidratos y Grasas)
@@ -170,9 +171,9 @@ npx expo start
 - Muestra el historial
 - Muestra un mensaje con un consejo del día
 
-![Captura_historial](assets/Captura_historial.jpg)
 
 ### **Pantalla de búsqueda:**
+![Captura_registro de comida](assets/Captura_registro de comida.jpg)
 En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento, bebida o golosina para obtener información nutricional detallada (calorías, proteínas, carbohidratos, grasas, etc.).
 
 ### **Datos de Ejemplo:**
@@ -185,6 +186,8 @@ En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento, be
 - Cerveza 🍺
 
 ### **Pantalla de Historial:**
+![Captura_historial](assets/Captura_historial.jpg)
+
 - Muestra el progreso.
 - Muestra el historial de días anteriores.
 - Muestra el resumen del día.
